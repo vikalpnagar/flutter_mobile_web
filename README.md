@@ -3,9 +3,16 @@
 A Flutter app demonstrating how to make REST API calls on mobile and web. jsonplaceholder.typicode.com is used as a rest endpoint.
 
 Mobile
+
 ![Mobile Albums Screens](https://github.com/vikalpnagar/flutter_mobile_web/blob/master/screens/mobile/albums.jpg)
 ![Mobile Photos Screen](https://github.com/vikalpnagar/flutter_mobile_web/blob/master/screens/mobile/photos.jpg)
 ![Mobile Photo Detail](https://github.com/vikalpnagar/flutter_mobile_web/blob/master/screens/mobile/photo-detail.jpg)
+
+Web
+
+![Web Albums Screens](https://github.com/vikalpnagar/flutter_mobile_web/blob/master/screens/web/albums.jpg)
+![Web Photos Screen](https://github.com/vikalpnagar/flutter_mobile_web/blob/master/screens/web/photos.jpg)
+![Web Photo Detail](https://github.com/vikalpnagar/flutter_mobile_web/blob/master/screens/web/photo-detail.jpg)
 
 ## Getting Started
 
