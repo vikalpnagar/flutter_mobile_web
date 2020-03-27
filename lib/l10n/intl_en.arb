@@ -1,0 +1,58 @@
+{
+  "@@last_modified": "2020-03-27T11:55:07.627808",
+  "appTitle": "Flutter Mobile + Web",
+  "@appTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "albumsTitle": "Albums",
+  "@albumsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noDataToShow": "Nothing to show here.\nTry refreshing the page.",
+  "@noDataToShow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "refreshButton": "Refresh",
+  "@refreshButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorDialogTitle": "An error occurred!",
+  "@errorDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorDialogMsg": "Something went wrong.",
+  "@errorDialogMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorDialogMsgNoInternet": "Looks like you do not have active internet connection.",
+  "@errorDialogMsgNoInternet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorDialogButton": "Okay",
+  "@errorDialogButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "photosTitle": "Photos",
+  "@photosTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "albumId": "Album ID",
+  "@albumId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "photoId": "Photo ID",
+  "@photoId": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
