@@ -10,9 +10,9 @@ Mobile
 
 Web
 
-![Web Albums Screens](https://github.com/vikalpnagar/flutter_mobile_web/blob/master/screens/web/albums.jpg)
-![Web Photos Screen](https://github.com/vikalpnagar/flutter_mobile_web/blob/master/screens/web/photos.jpg)
-![Web Photo Detail](https://github.com/vikalpnagar/flutter_mobile_web/blob/master/screens/web/photo-detail.jpg)
+![Web Albums Screens](https://github.com/vikalpnagar/flutter_mobile_web/blob/master/screens/web/albums.png)
+![Web Photos Screen](https://github.com/vikalpnagar/flutter_mobile_web/blob/master/screens/web/photos.png)
+![Web Photo Detail](https://github.com/vikalpnagar/flutter_mobile_web/blob/master/screens/web/photo-detail.png)
 
 ## Getting Started
 
